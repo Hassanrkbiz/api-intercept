@@ -1,0 +1,22 @@
+{
+  "name": "api-intercept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hassanrkbiz/api-intercept.git"
+  },
+  "keywords": [
+    "api-intercept"
+  ],
+  "author": "Hassan Raza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hassanrkbiz/api-intercept/issues"
+  },
+  "homepage": "https://github.com/Hassanrkbiz/api-intercept#readme"
+}
